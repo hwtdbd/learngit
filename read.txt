@@ -4,4 +4,9 @@ all right
 I love meat!
 stupid hwt
 create a new branch is dev
+<<<<<<< HEAD
 victer huang
+=======
+lalana
+>>>>>>> feature1
+hwt and lalana
